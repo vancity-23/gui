@@ -1,0 +1,1 @@
+This project is a Career Counselling GUI built using JavaFX. The application helps users predict personalized career paths based on the skills they rate on a scale from 1 to 10. It aims to provide insights into potential career options based on the user’s skillset.
